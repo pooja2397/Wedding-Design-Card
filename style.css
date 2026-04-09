@@ -1,0 +1,90 @@
+h1 {
+
+    font-size: 50px;
+    color: rgb(226, 125, 43);
+    text-align: center;
+    font-style: oblique;
+    padding: 20px;
+    margin: 20px;
+    background-color: rgb(236, 193, 223);
+   
+}
+
+
+.first {
+
+  text-align: center;
+}
+
+
+
+
+
+h1 .firt {
+
+  text-align: center;
+}
+
+
+
+
+
+
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  color: blueviolet;
+  
+}
+
+
+
+.container div {
+  
+  height: 200px;
+  width: 200px;
+  margin: 50px;
+  padding: 50px;
+  text-align: center;  
+  font-size: 30px;
+  
+  
+}
+
+
+
+
+div.b ,h1 {
+
+  
+  text-align: justify; /* For Edge */
+  -moz-text-align-last: center; /* For Firefox prior 58.0 */
+  text-align-last: center;
+  font-size:40px;
+  color:red;
+  p.small {font-variant-caps: small-caps;}
+}
+
+div.b p {
+
+  padding-top: 30px;
+}
+
+
+
+.third {
+
+  
+  font-size: 40px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: rgb(216, 98, 51);
+
+}
+
+
+
+
+
+
+
